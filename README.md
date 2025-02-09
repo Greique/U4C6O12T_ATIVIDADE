@@ -12,6 +12,6 @@
 
 
 🚀 **Nome:** Greique  
-🎯 **Curso:** Engenharia da Computação - UFRB  
+🎯 **Curso:** Sistemas embarcados (Engenharia da Computação - UFRB)  
 🛠️ **Placa:** BitDogLab com RP2040  
 
