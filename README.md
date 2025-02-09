@@ -9,7 +9,7 @@
 - **Uso de interrupções e debounce** para evitar múltiplos acionamentos indevidos.
 - **Controle do display OLED SSD1306** para exibição de caracteres e mensagens.
 ## Link do video
-
+https://drive.google.com/file/d/1iywWD1IwTgfvve744gWSHOg9A8qUqqPS/view?usp=sharing
 
 🚀 **Nome:** Greique  
 🎯 **Curso:** Sistemas embarcados (Engenharia da Computação - UFRB)  
